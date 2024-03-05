@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>Label</key>
+        <string>com.dril.agent</string>
+        <key>Program</key>
+        <string>/Users/bp/Documents/dril/bin/agent</string>
+        <key>StandardOutPath</key>
+        <string>/tmp/com.dril.agent.log</string>
+        <key>StartOnMount</key>
+        <true/>
+    </dict>
+</plist>
